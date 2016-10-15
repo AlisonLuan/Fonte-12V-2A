@@ -1,0 +1,35 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Part Number~String~Part Number~100|Field=Partnumber~String~Partnumber~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Fonte 12V-2A.PrjPcb|ReportField=ProjectFullPath~C:\Fonte-12V-2A\trunk\Fonte 12V-2A\Fonte 12V-2A.PrjPcb|ReportField=Title~Bill of Materials For Project [Fonte 12V-2A.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~47|ReportField=ReportTime~22:03:30|ReportField=ReportDate~23/09/2016|ReportField=ReportDateTime~23/09/2016 22:03:30|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~23/09/2016|ReportField=CurrentTime~21:57:46|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Fonte-12V-2A\trunk\Fonte 12V-2A\SCH\Fonte 12V-2A.SchDoc|ReportField=DocumentName~Fonte 12V-2A.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~23/09/2016|ReportField=Organization~|ReportField=ProjectName~Fonte 12V-2A.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~2|ReportField=SheetTotal~9|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Fonte 12V-2A.PrjPcb|ReportField=DataSourceFullPath~C:\Fonte-12V-2A\trunk\Fonte 12V-2A\Fonte 12V-2A.PrjPcb
+470pF 200V||C1|C0603|CC 470pF 200V 0603|06032C471KAT2A||1
+100pF 250VAC||C2|CAP_DE|CC 100pF 250VAC||DE1B3KX101KA4BN01F|1
+4,7nF 250VAC Y2||C3, C10|WYO|CC 4,7nF 250VAC Y2||WYO472MCMCF0KR|2
+220uF 63V|C.Elet.220uF 63V 20% Radial|C4|CAP200P_D10H20|CE 220uF 63V PTH|||1
+1000uF 25V|C.Elet.1000uF 25V 20% Radial|C5, C6|CAP5_D12.5H25|CE 1000uF 25V PTH|REA102M1EBK-1320P||2
+47nF 250VAC||C7|CAP_R75_H11mm_L13mm|CC 47nF 250VAC||R75LF24704000K|1
+0.33uF 250VAC||C8, C9|R75|CC 0.33uF 250VAC||ECQ-U2A334KL|2
+68uF 400V|C.Elet.68uF 400V 20% Radial|C11|CAP5_D12.5H31.5|CE 68uF 400V PTH|UPZ2G680MHD||1
+100uF 25V|C.Elet.1000uF 25V 20% Radial|C12|CAP100P_D6.3H11|CE 100uF 25V PTH|||1
+470nF 50V||C13, C17|C0805|CC 470nF 50V 0805|||2
+4,7nF 50V||C14|C0805|CC 4,7nF 50V 0805|||1
+10nF 50V||C15, C18|C0805|CC 10nF 50V 0805|||2
+100nF 50V||C16|C0805|CC 100nF 50V 0805|||1
+MURS360S|Dio.Ultra Fast Rectifier SMT 600V 3A SMC MURS360S|D1, D2, D6|DO214AA-SMB|D MURS360S SMB|||3
+1.5KE220A|D 1.5KE220A 1.5KE|D3|1.5KE|D 1.5KE220A 1.5KE|{Part Number}||1
+S3MB|D S3MB DO214AA|D4, D5, D7, D8|DO214AA-SMB|D S3MB DO214AA|{Part Number}||4
+1N4148|Diodo 1N4148 (LL4148) MINI MELF/SOD80|D9|SOD80-MINIMELF|D 1N4148 SMD|||1
+CVP 53-001|IND CVP 53-001|L1|CVP 53-001|IND CVP 53-001|||1
+2,2uH|IND 2,2uH 2512 SMD|L2|l2512|IND 2,2uH 2512 SMD||SRN2512-2R2M|1
+SS11V-04350-CH|IND SS11V-04350-CH CHOKE PTH|L3|SS11V-04350-CH|IND SS11V-04350-CH CHOKE PTH|SS11V-04350-CH||1
+22R 1%|RES 22R 1% 0805 0.5W|R1|R0805|RES 22R 1% 0805 0.5W|ERJ-P06F22R0V||1
+22K 5% 2W|RES 22K 5% 2W PTH|R2|RES2W_L16mm_D5.5|RES 22K 5% 2W PTH|ON2235E-R58||1
+1K 5% 2W|RES 1K 5% 2W PTH|R3|RES2W_L16mm_D5.5|RES 1K 5% 2W PTH|ON1025E-R58||1
+1K 1%|RES 1K 1% 1206|R4, R11|R1206|RES 1K 1% 1206|{Part Number}||2
+3R 5% 3W|RES 3R 5% 3W PTH|R5|RES2W_L16mm_D5.5|RES 3R 5% 3W PTH|PR03000203008JAC00||1
+15R 1%|RES 15R 1% 1206|R6|R1206|RES 15R 1% 1206|{Part Number}||1
+10R 1%|RES 10R 1% 0805|R7|R0805|RES 10R 1% 0805|{Part Number}||1
+3K 1%|RES 3K 1% 0805|R8|R0805|RES 3K 1% 0805|{Part Number}||1
+68R 1%|RES 68R 1% 1206|R9|R1206|RES 68R1% 1206|{Part Number}||1
+10K 1%|RES 10K 1% 0805|R10|R0805|RES 10K 1% 0805|{Part Number}||1
+3K3 1%|RES 3K3 1% 0805|R12, R13, R14|R0805|RES 3K3 1% 0805|{Part Number}||3
+VIPer53EDIP-E|CI VIPer53E DIP-8|U1|DIP8|CI VIPer53E DIP-8|{Part Number}||1
+LTV-817A|CI LTV-817A DIP4|U2|DIP4|CI LTV-817A DIP4|LTV-817A||1
+TL431|CI TL431 SOT23|U3|SOT23|CI TL431 SOT23|TL431AIL3T||1

@@ -87,6 +87,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LIWUUMMP
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Fonte 12V-2A\Design Rule Check - Fonte 12V-2A.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
